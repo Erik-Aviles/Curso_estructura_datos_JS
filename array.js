@@ -1,3 +1,5 @@
+const h2 = document.querySelector('h2');
+h2.textContent = 'Array';
 /* Generar metodos para obtener el indice de un array (get) y para poner elemntos en un array (push) */
 
 // const array = ["Diego", "Karen", "Oscar"];
