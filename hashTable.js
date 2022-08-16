@@ -1,6 +1,6 @@
 
 const h2 = document.querySelector('h2');
-h2.textContent = 'Hash Table';
+h2.textContent = 'Hash Table (Objeto:js)';
 
 class HashTable{
     constructor(size){
